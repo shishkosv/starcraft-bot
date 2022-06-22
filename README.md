@@ -1,0 +1,2 @@
+# starcraft-bot
+starcraft bot
