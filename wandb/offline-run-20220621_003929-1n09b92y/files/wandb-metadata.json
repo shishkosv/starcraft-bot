@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.10.5",
+    "heartbeatAt": "2022-06-21T05:39:31.267482",
+    "startedAt": "2022-06-21T05:39:29.093606",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\shish\\OneDrive\\Desktop\\SC2 BOT\\SC2RL-main\\load-train-mlpp.py",
+    "codePath": "load-train-mlpp.py",
+    "host": "DESKTOP-AU11GQP",
+    "username": "shish",
+    "executable": "C:\\Users\\shish\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
+}
